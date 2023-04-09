@@ -13,5 +13,3 @@ Hardware repository for the Destination Automation R4 robotic rover platform
 ![](roverBottom.png)
 ![](roverIso.png)
 ![](roverRouting.png)
-
-test
