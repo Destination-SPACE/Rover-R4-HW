@@ -10,6 +10,6 @@ Hardware repository for the Destination Automation R4 robotic rover platform
 - 2x input buttons
 
 ![](roverFront.png)
-![](roverBack.png)
+![](roverBottom.png)
 ![](roverIso.png)
 ![](roverRouting.png)
