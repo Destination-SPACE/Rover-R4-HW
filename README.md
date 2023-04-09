@@ -1,4 +1,4 @@
-# Destination Automation R4 - Hardware
+# Destination Automation R4 - Hardware test
 Hardware repository for the Destination Automation R4 robotic rover platform
 
 ## Features
